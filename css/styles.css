@@ -723,7 +723,7 @@ header nav a:hover::after{
     width: 100%;
     height: fit-content;
     justify-content: center;
-    margin: 20px;
+    margin: 30px;
 }
 
 .contact-ways .contact-container{
@@ -736,7 +736,7 @@ header nav a:hover::after{
     height: fit-content;
     transition: .4s;
     border: none;
-    margin: 10px;
+    margin: 20px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -745,7 +745,6 @@ header nav a:hover::after{
 .contact-btn:hover {
     transform: scale(1.2);
     cursor: pointer;
-    margin: 20px;
 }
 .contact-btn:focus{
     outline: none;
@@ -791,25 +790,6 @@ footer{
     color: white;
     flex-direction: column;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* ANIMATIONS */
 
