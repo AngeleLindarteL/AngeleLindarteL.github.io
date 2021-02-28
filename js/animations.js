@@ -57,7 +57,7 @@ pryBtn.addEventListener('click',() =>{
     window.scrollTo(window.scrollTo( 0, 2489))
 })
 eduBtn.addEventListener('click',() =>{
-    window.scrollTo(window.scrollTo( 0, 3760))
+    window.scrollTo(window.scrollTo( 0, 3231))
 })
 ctcBtn.addEventListener('click',() =>{
     window.scrollTo(window.scrollTo( 0, 9000 ))
