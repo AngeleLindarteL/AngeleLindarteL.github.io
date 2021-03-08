@@ -37,7 +37,7 @@ window.addEventListener('scroll', () => {
     }else{
         header.style.background = "var(--col1)";
     }
-    if(window.scrollY > 3752){
+    if(window.scrollY > 3214){
         header.style.background = "var(--col1)"
     }
 });
