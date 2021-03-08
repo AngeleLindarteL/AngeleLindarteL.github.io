@@ -841,4 +841,7 @@ footer{
     #about-me{display: none;}
     #habilities{display: none;}
     #projects{display: none;}
+    #education{display: none;}
+    #contact{display: none;}
+    footer{display: none;}
 }
