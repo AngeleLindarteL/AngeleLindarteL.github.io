@@ -155,8 +155,8 @@ header nav a:hover::after{
     background-image: url(../img/me2.jpg);
     width: 800px;
     height: 100%;
-    background-size:100%;
-    background-position: left;
+    background-size:cover;
+    background-position: 46%;
 }
 #about-me .abt .wavy-p{
     position: absolute;
